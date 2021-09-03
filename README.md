@@ -3,7 +3,7 @@ Script ITS jstfreenet X vpnkacang<br>
 >pkg update && pkg upgrade<br>
 >pkg install git<br>
 >pkg install python<br>
->git clone https://github.com/jstfreenet-vpnkacang/its<br>
+>git clone https://github.com/karlicaca/its<br>
 >cd its<br>
 >python token.py<br>
 ====================================<br>
